@@ -3,7 +3,7 @@
 We are ucakucak.com team and came up to give people best travelling experience easy and love it.
 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fselcukkubur.selcukkubur%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fucakucak.ucakucak%2Freadme)
 
 - 🙋‍♂️ Pronouns: He/him
 
