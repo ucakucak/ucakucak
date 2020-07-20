@@ -33,16 +33,14 @@ src="https://github.com/github/explore/blob/master/topics/azure/azure.png?raw=tr
 🍏 Beginner's mindset and curiosity<br>
 🙌 Shared understanding and consensus
 
-## How We work
-My motivations are always sharing and caring whole team with every little pieces of knowladge. cos that's the only way to push to team forward. ✅
+## How we work
+Our motivations are always sharing and caring whole team with every little pieces of knowladge. cos that's the only way to push to team forward. ✅
 
 ## How to reach us 📫
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/selçukkubur-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sel%C3%A7uk-kubur-618a5651/)
-
-[![Twitter Badge](https://img.shields.io/badge/selçukkubur-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/codeless33)
+[![Twitter Badge](https://img.shields.io/badge/UcakUcak-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ucakucakcom)
 
 
 
